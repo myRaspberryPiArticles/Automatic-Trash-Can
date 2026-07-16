@@ -1,6 +1,20 @@
 # Automatic-Trash-Can
 This is a repo for my RPI powered trash bin that sorts waste into trash and recyclable. Includes code pictures and a flow chart of how the code works. I will also put a list of parts you want to recreate it!
 
+# Contents
+
+[Pictures](#pictures-of-the-project)
+
+[How it works](#how-it-works)
+
+
+[Pictures](#neopixel)
+[Pictures](#Pictures-of-the-project)
+[Pictures](#Pictures-of-the-project)
+[Pictures](#Pictures-of-the-project)
+[Pictures](#Pictures-of-the-project)
+[Pictures](#Pictures-of-the-project)
+
 ## Pictures of the project
 
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (2)" src="https://github.com/user-attachments/assets/c12250c2-a737-4fe2-8dd2-f8694362e664" />
