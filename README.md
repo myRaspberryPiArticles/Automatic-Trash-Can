@@ -35,7 +35,8 @@ There are two buttons, one for shutting down the Pi (the red one), and one that 
 The outside frame is some wood bought form a local hardware store, and then cut and glued to for a wooden cuboid. Then, I cut paper to the right size to cover up the space, and glue it to the edge to keep it clean and tight. The Pi is mounted with the screw holes it has, and the rest of the components are hot glued on.
 
 ## Bill of Materials
-|
-|
-|
-|
+| Header 1 (Left-Aligned) | Header 2 (Centered) | Header 3 (Right-Aligned) |
+| :--- | :---: | ---: |
+| Row 1, Column 1 | Center Data | $100.00 |
+| Row 2, Column 1 | Center Data | $1,250.50 |
+| Row 3, Column 1 | Center Data | $9.99 |
