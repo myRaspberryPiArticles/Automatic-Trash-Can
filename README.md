@@ -37,7 +37,7 @@ After every run of the trash bin, it also aves an image to the respective folder
 
 ## Camera
 
-I use a generic RPI Camera which does the job in both capturing photos and also detecting motion. 
+I use a generic RPI Camera which does the job in both capturing photos and also detecting motion. The motion is detected by finding out how many pixels have changed in the cmaera's view, and this also uses a threshold which can be adjusted if it mistriggers or  doesn't detect anything. I mounted the camera inside the Neopixel, so majority of the light is aimed at the same place as is viewed by the camera. This setup is then hot glued in a position where the camera has a good vantage point.
 
 ## Neopixel
 
