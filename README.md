@@ -5,8 +5,10 @@ This is a repo for my RPI powered trash bin that sorts waste into trash and recy
 
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (2)" src="https://github.com/user-attachments/assets/c12250c2-a737-4fe2-8dd2-f8694362e664" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (1)" src="https://github.com/user-attachments/assets/ea84ed18-ed79-4549-be2c-5c72f600e9e9" />
+<br>
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 23 (3)" src="https://github.com/user-attachments/assets/050a2b43-8bd4-47a6-ac51-df6479f5b6e0" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 21" src="https://github.com/user-attachments/assets/d8cdc08c-efc5-4632-b5cf-f0bc010bb24e" />
+<br>
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 20 (1)" src="https://github.com/user-attachments/assets/cd391588-5b07-4eff-926f-93d17f334f90" />
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23" src="https://github.com/user-attachments/assets/3a27b525-3780-483a-9e2c-b46a568d9543" />
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23 (2)" src="https://github.com/user-attachments/assets/17bce2bb-e4fe-40bb-b398-504d4dbfb448" />
@@ -37,9 +39,11 @@ The outside frame is some wood bought form a local hardware store, and then cut 
 ## Bill of Materials (Electric components)
 | Part | Where to buy |
 | :--- | :---: |
-| Raspberry Pi 4 Model B | PiHut |
-| Pi Camera | Amazon |
-| Neopixel | PiHut |
-| LCD | PiHut |
-| Buttons | PiHut |
-| LCD | PiHut |
+| Raspberry Pi 4 Model B | [PiHut](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064052674622) |
+| SD Card | Anywhere |
+| Pi Camera | [Amazon](https://www.amazon.co.uk/AZDelivery-⭐⭐⭐⭐⭐-Camera-Raspberry-Ebook/dp/B076FB1KCW/ref=sr_1_10?crid=3ATAF7NSL5FXN&dib=eyJ2IjoiMSJ9.bZhTDnrkgJSY2J8TROWarFFSp1GwyXcIU5DzCH4kws4nwXbN7_bUY-Fj0kCoYBaKkD0Z4lOO0x9DwXfIDerI2bUaXpSGyfq8VH1sSpmW3FqYXEBSPJENJyP6wMOZULvZ8Cf0ysGaQSU84kb8oHvSVn52QblJuj0daCmaWWzraLVxyJrN0b0TtNMykN_aNXd-HTPDbJeBv__MB9kmSkGordYE4rhubbqC-L8zslmi2n4.EcHSrhFO6fDHMrJyE3ZnrodMEY5ZD8vHrjphffWe0K8&dib_tag=se&keywords=pi%2Bcamera&qid=1784231364&sprefix=pi%2Bcamer%2Caps%2C117&sr=8-10&th=1) |
+| Neopixel | [PiHut](https://thepihut.com/products/adafruit-neopixel-ring-16-x-5050-rgb-led-with-integrated-drivers) |
+| LCD | [PiHut](https://thepihut.com/products/waveshare-blue-16x2-i2c-lcd-module-3-3v-5v-with-backlight-control) |
+| Buttons | [PiHut](https://thepihut.com/products/colorful-round-tactile-button-switch-assortment-15-pack) |
+| Servo (x2) | [PiHut](https://thepihut.com/products/towerpro-servo-motor-sg90-digital) |
+| Wires and jumper cables | Anywhere |
