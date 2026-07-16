@@ -5,13 +5,12 @@ This is a repo for my RPI powered trash bin that sorts waste into trash and recy
 
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (2)" src="https://github.com/user-attachments/assets/c12250c2-a737-4fe2-8dd2-f8694362e664" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (1)" src="https://github.com/user-attachments/assets/ea84ed18-ed79-4549-be2c-5c72f600e9e9" />
-<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23" src="https://github.com/user-attachments/assets/3a27b525-3780-483a-9e2c-b46a568d9543" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 23 (3)" src="https://github.com/user-attachments/assets/050a2b43-8bd4-47a6-ac51-df6479f5b6e0" />
-<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23 (2)" src="https://github.com/user-attachments/assets/17bce2bb-e4fe-40bb-b398-504d4dbfb448" />
-<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 22 (1)" src="https://github.com/user-attachments/assets/80627669-e05b-4296-a6c8-90f28469a911" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 21" src="https://github.com/user-attachments/assets/d8cdc08c-efc5-4632-b5cf-f0bc010bb24e" />
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 20 (1)" src="https://github.com/user-attachments/assets/cd391588-5b07-4eff-926f-93d17f334f90" />
-
+<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23" src="https://github.com/user-attachments/assets/3a27b525-3780-483a-9e2c-b46a568d9543" />
+<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23 (2)" src="https://github.com/user-attachments/assets/17bce2bb-e4fe-40bb-b398-504d4dbfb448" />
+<img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 22 (1)" src="https://github.com/user-attachments/assets/80627669-e05b-4296-a6c8-90f28469a911" />
 
 ## How it works:
 
