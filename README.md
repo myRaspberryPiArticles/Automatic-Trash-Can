@@ -35,8 +35,10 @@ There are two buttons, one for shutting down the Pi (the red one), and one that 
 The outside frame is some wood bought form a local hardware store, and then cut and glued to for a wooden cuboid. Then, I cut paper to the right size to cover up the space, and glue it to the edge to keep it clean and tight. The Pi is mounted with the screw holes it has, and the rest of the components are hot glued on.
 
 ## Bill of Materials
-| Header 1 (Left-Aligned) | Header 2 (Centered) | Header 3 (Right-Aligned) |
-| :--- | :---: | ---: |
-| Row 1, Column 1 | Center Data | $100.00 |
-| Row 2, Column 1 | Center Data | $1,250.50 |
-| Row 3, Column 1 | Center Data | $9.99 |
+| Part | Where to buy |
+| :--- | :---: |
+| Raspberry Pi 4 Model B | [PiHut]([url](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064052674622 )) |
+| Pi Camera | [Amazon]([url](https://www.amazon.co.uk/AZDelivery-⭐⭐⭐⭐⭐-Camera-Raspberry-Ebook/dp/B076FB1KCW/ref=sr_1_10?crid=3ATAF7NSL5FXN&dib=eyJ2IjoiMSJ9.bZhTDnrkgJSY2J8TROWarFFSp1GwyXcIU5DzCH4kws4nwXbN7_bUY-Fj0kCoYBaKkD0Z4lOO0x9DwXfIDerI2bUaXpSGyfq8VH1sSpmW3FqYXEBSPJENJyP6wMOZULvZ8Cf0ysGaQSU84kb8oHvSVn52QblJuj0daCmaWWzraLVxyJrN0b0TtNMykN_aNXd-HTPDbJeBv__MB9kmSkGordYE4rhubbqC-L8zslmi2n4.EcHSrhFO6fDHMrJyE3ZnrodMEY5ZD8vHrjphffWe0K8&dib_tag=se&keywords=pi%2Bcamera&qid=1784231364&sprefix=pi%2Bcamer%2Caps%2C117&sr=8-10&th=1)) |
+| Neopixel | [PiHut]([url](https://thepihut.com/products/adafruit-neopixel-ring-16-x-5050-rgb-led-with-integrated-drivers)) |
+| LCD | [PiHut](https://thepihut.com/products/waveshare-blue-16x2-i2c-lcd-module-3-3v-5v-with-backlight-control)) |
+| Buttons | [PiHut]([https://thepihut.com/products/waveshare-blue-16x2-i2c-lcd-module-3-3v-5v-with-backlight-control](https://thepihut.com/products/colorful-round-tactile-button-switch-assortment-15-pack))) |
