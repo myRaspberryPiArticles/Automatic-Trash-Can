@@ -1,7 +1,7 @@
 # Automatic-Trash-Can
 This is a repo for my RPI powered trash bin that sorts waste into trash and recyclable. Includes code pictures and a flow chart of how the code works. I will also put a list of parts you want to recreate it!
 
-## Pictures of the project:
+## Pictures of the project
 
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (2)" src="https://github.com/user-attachments/assets/c12250c2-a737-4fe2-8dd2-f8694362e664" />
 <img width="167" height="76" alt="WhatsApp Image 2026-07-16 at 19 56 24 (1)" src="https://github.com/user-attachments/assets/ea84ed18-ed79-4549-be2c-5c72f600e9e9" />
@@ -12,7 +12,7 @@ This is a repo for my RPI powered trash bin that sorts waste into trash and recy
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 23 (2)" src="https://github.com/user-attachments/assets/17bce2bb-e4fe-40bb-b398-504d4dbfb448" />
 <img width="76" height="167" alt="WhatsApp Image 2026-07-16 at 19 56 22 (1)" src="https://github.com/user-attachments/assets/80627669-e05b-4296-a6c8-90f28469a911" />
 
-## How it works:
+## How it works
 
 <img width="389" height="314" alt="Screenshot 2026-07-16 at 14 40 36" src="https://github.com/user-attachments/assets/c1bc298a-543f-4ba3-a413-d672ba14d3a6" />
 
@@ -31,3 +31,7 @@ There is a 16 LED Neopixel ring that acts as a status light and flash light when
 There are two buttons, one for shutting down the Pi (the red one), and one that is the manual override if the ML Model is wrong (the green one). It is important to shutdown the Pi, and as it is not a Pi 5 with shutdown button, I put one myself to ensure safe power offs. The manual override button inverses the output and instead of saving the image to the folder the ML Model originally would, it saves it to the other one.
 
 ## Hardware
+
+The outside frame is some wood bought form a local hardware store, and then cut and glued to for a wooden cuboid. Then, I cut paper to the right size to cover up the space, and glue it to the edge to keep it clean and tight. The Pi is mounted with the screw holes it has, and the rest of the components are hot glued on.
+
+## Bill of Materials
