@@ -3,17 +3,14 @@ This is a repo for my RPI powered trash bin that sorts waste into trash and recy
 
 # Contents
 
-[Pictures](#pictures-of-the-project)
-
-[How it works](#how-it-works)
-
-
-[Pictures](#neopixel)
-[Pictures](#Pictures-of-the-project)
-[Pictures](#Pictures-of-the-project)
-[Pictures](#Pictures-of-the-project)
-[Pictures](#Pictures-of-the-project)
-[Pictures](#Pictures-of-the-project)
+[Pictures](#pictures-of-the-project)<br>
+[How it works](#how-it-works)<br>
+[ML Model](#ml-model)<br>
+[Camera](#camera)<br>
+[Neopixel](#neopixel)<br>
+[Buttons and their funtions](#buttons-and-their-functions)<br>
+[Hardware](#hardware)<br>
+[BOM](#bill-of-materials-electric-components)<br>
 
 ## Pictures of the project
 
